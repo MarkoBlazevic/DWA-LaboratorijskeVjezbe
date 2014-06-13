@@ -1,0 +1,84 @@
+body {
+	
+	font-family: Comic sans, Verdana, Helvetica, sans-serif;
+	padding: 0px;
+	padding-top: 10px;
+
+}
+
+a:link, a:active, a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+
+.header {
+	background: #7A0A12;
+}
+
+.logo {
+	float: center;
+	margin: 0 0 0 10px;
+	background: url(images/logo.png);
+	width: 180px;
+	height: 69px;
+} 
+
+.moto p {
+	font-style: italic;
+}
+
+.meni a {
+	display: block;
+	float: left;
+	padding: 10px;
+	color: black;
+	text-decoration: none;
+}
+
+.meni a:hover {
+	background: #14786D;
+}
+
+.forma {
+	float: center;
+	position: relative;
+	top: 100px;
+}
+
+.korisnik {
+	float: right;
+}
+
+.column-8.zivo {
+	height: 200px;
+}
+
+.sidemenu  {
+	position: relative;
+	top: 50px;
+	text-align: left;
+	background: semi-transparent;
+	float: left;
+	color: black;
+	height: 300px;
+	border: 1px solid black;
+	
+ }
+
+.footer {
+	margin-top: 20px;
+    text-align: center;
+    padding: 10px;
+	font-size: 90%;
+	border: 1px solid black;
+	background: #14786D;
+}
+
+.footer p {
+	float: center;
+}
+
+
+.spacer {
+	height: 300px;
+}
